@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Systems Engineering student from Costa Rica.<br><br>- 🔭 I’m working as a Backend Developer and Database Designer.<br>- 🖥️ I’m currently building applications with Flutter, NestJS, SQL and AI-assisted development.<br>- ⚡ In my free time, I turn real-world problems into practical software solutions.</p>
+<p data-importer="text" align="left">I'm a Systems Engineering from Costa Rica.<br><br>- 🔭 I’m working as a Backend Developer and Database Designer.<br>- 🖥️ I’m currently building applications with Flutter, NestJS, SQL and AI-assisted development.<br>- ⚡ I turn real-world problems into practical software solutions.</p>
 
 ###
 
